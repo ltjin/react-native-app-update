@@ -44,7 +44,7 @@ export default class AppUpdate {
 
     static _update(url){
         if(Platform.OS === 'android'){
-            // NativeModules.AppUpdate.update(url);
+            NativeModules.AppUpdate.update(url);
         }else if(Platform.OS === 'ios'){
             Linking.openURL(url).catch(err=>{
                 Alert.alert(

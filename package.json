@@ -1,11 +1,47 @@
 {
-  "name": "react-native-app-update",
-  "version": "0.0.1",
+  "_args": [
+    [
+      "react-native-app-update@file:///Users/ltjin/Documents/PROJECTS/YuanYin/YYShow/99_Reference/react-native-app-update",
+      "/Users/ltjin/Documents/PROJECTS/YuanYin/YYShow/02_Development/YYShowAnchor"
+    ]
+  ],
+  "_from": "../../99_Reference/react-native-app-update",
+  "_id": "react-native-app-update@0.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-app-update",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-app-update",
+    "raw": "react-native-app-update@file:///Users/ltjin/Documents/PROJECTS/YuanYin/YYShow/99_Reference/react-native-app-update",
+    "rawSpec": "file:///Users/ltjin/Documents/PROJECTS/YuanYin/YYShow/99_Reference/react-native-app-update",
+    "scope": null,
+    "spec": "/Users/ltjin/Documents/PROJECTS/YuanYin/YYShow/99_Reference/react-native-app-update",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "file:../../99_Reference/react-native-app-update",
+  "_shasum": "10e2c5f6bbe3a4b3ad5c1c43d6c093f3076849a2",
+  "_shrinkwrap": null,
+  "_spec": "react-native-app-update@file:///Users/ltjin/Documents/PROJECTS/YuanYin/YYShow/99_Reference/react-native-app-update",
+  "_where": "/Users/ltjin/Documents/PROJECTS/YuanYin/YYShow/02_Development/YYShowAnchor",
+  "author": {
+    "name": "ltjin"
+  },
+  "dependencies": {},
   "description": "",
+  "devDependencies": {},
+  "gitHead": "fe50fe3899cac4f21f750bd2c207701031618b87",
+  "license": "MIT",
   "main": "index.js",
+  "name": "react-native-app-update",
+  "optionalDependencies": {},
+  "readme": "### React Native App Update",
+  "readmeFilename": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ltjin",
-  "license": "MIT"
+  "version": "0.0.1"
 }
